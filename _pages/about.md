@@ -14,3 +14,11 @@ This workshop is proposing a ‘hackathon’ week. We invite ~40 researchers mai
 ## When and Where?
 
 This workshop will happen during Summer 2021 in Foix, Ariège, France.
+
+## Supporting institutions
+![image](https://user-images.githubusercontent.com/4628711/112644072-4ebf9c80-8e45-11eb-82f5-662e0eb6b815.png)
+![image](https://user-images.githubusercontent.com/4628711/112644084-52532380-8e45-11eb-8335-a784cf0b53b2.png)
+![image](https://user-images.githubusercontent.com/4628711/112644095-554e1400-8e45-11eb-9af6-6222528b1156.png)
+![image](https://user-images.githubusercontent.com/4628711/112644104-57b06e00-8e45-11eb-9f85-44626a81fe5d.png)
+![image](https://user-images.githubusercontent.com/4628711/112644114-5a12c800-8e45-11eb-82f6-afbb17b8f33a.png)
+![image](https://user-images.githubusercontent.com/4628711/112644122-5d0db880-8e45-11eb-8fbe-6b287af61976.png)
