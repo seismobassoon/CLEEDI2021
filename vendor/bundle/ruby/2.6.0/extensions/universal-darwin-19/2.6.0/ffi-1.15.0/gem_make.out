@@ -1,5 +1,5 @@
-current directory: /Users/charleslelosq/CLEEDI2021/vendor/bundle/ruby/2.6.0/gems/ffi-1.15.0/ext/ffi_c
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20210505-36684-1awwwxg.rb extconf.rb
+current directory: /Users/charleslelosq/test_minimal/vendor/bundle/ruby/2.6.0/gems/ffi-1.15.0/ext/ffi_c
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20210505-45354-ip7vxx.rb extconf.rb
 checking for ffi_prep_closure_loc() in -lffi... yes
 checking for ffi_prep_cif_var()... yes
 checking for ffi_raw_call()... yes
@@ -7,10 +7,10 @@ checking for ffi_prep_raw_closure()... yes
 creating extconf.h
 creating Makefile
 
-current directory: /Users/charleslelosq/CLEEDI2021/vendor/bundle/ruby/2.6.0/gems/ffi-1.15.0/ext/ffi_c
+current directory: /Users/charleslelosq/test_minimal/vendor/bundle/ruby/2.6.0/gems/ffi-1.15.0/ext/ffi_c
 make "DESTDIR=" clean
 
-current directory: /Users/charleslelosq/CLEEDI2021/vendor/bundle/ruby/2.6.0/gems/ffi-1.15.0/ext/ffi_c
+current directory: /Users/charleslelosq/test_minimal/vendor/bundle/ruby/2.6.0/gems/ffi-1.15.0/ext/ffi_c
 make "DESTDIR="
 compiling AbstractMemory.c
 compiling ArrayType.c
@@ -38,6 +38,6 @@ compiling ffi.c
 linking shared-object ffi_c.bundle
 ld: warning: directory not found for option '-L/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.Internal.sdk/usr/local/lib'
 
-current directory: /Users/charleslelosq/CLEEDI2021/vendor/bundle/ruby/2.6.0/gems/ffi-1.15.0/ext/ffi_c
+current directory: /Users/charleslelosq/test_minimal/vendor/bundle/ruby/2.6.0/gems/ffi-1.15.0/ext/ffi_c
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20210505-36684-13fupgb
+/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20210505-45354-1l9sj4b

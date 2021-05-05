@@ -1,9 +1,12 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+
   - title: "About"
     url: /about/
+  - title: "Location"
+    url: /location/
+  - title: "Participate"
+    url: /participate/
+  - title: "COVID"
+    url: /covid/
+  - title: "Posts"
+    url: /posts/
