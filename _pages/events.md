@@ -22,7 +22,7 @@ permalink: /events/
 
 		{% for post in site.categories.session reversed %}
 			{% capture day %}{{ post.date | date: "%A" }}{% endcapture %}
-			{% if day == 'Saturday' %}
+			{% if day == 'Wednesday' %}
 				{% include schedule-day.html %}
 			{% endif %}
 		{% endfor %}
