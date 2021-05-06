@@ -114,7 +114,7 @@ gcalendar:
   key_file: cleedi-b14803f590e9.json
   calendars:
     - id: au8k9mpk1cji4f1mv8dr310150@group.calendar.google.com      # eg. blahblahblah12345678912345@group.calendar.google.com
-      directory: events         # the directory in which to place geneated events
+      directory: _events         # the directory in which to place geneated events
       layout: gc_event          # the Jekyll layout template to use for events
       date_format: "%d-%m-%Y"   # Uses Strftime formating directive (http://strftime.net/)
       look_ahead: 365           # 1 year in days
