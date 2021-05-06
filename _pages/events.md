@@ -1,7 +1,6 @@
 ---
 title: "Events"
 permalink: /events/
-layout: page
 title: Jekyll-powered Event Schedule
 ---
 
