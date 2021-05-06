@@ -1,5 +1,7 @@
-title	permalink
-Events
-/events/
+---
+title: "Events"
+permalink: /events/
+
+---
 
 page.calendar
