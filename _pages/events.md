@@ -3,6 +3,9 @@ title: "Events"
 permalink: /events/
 
 ---
+{page.event}
+{page.calendar}
+{page.calendar_id}
 
 <div class="schedule">
 	<h1 class="title">{{ page.title }}</h1>
