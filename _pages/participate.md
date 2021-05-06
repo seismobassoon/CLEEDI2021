@@ -3,7 +3,7 @@ title: Participate
 permalink: /participate/
 ---
 
-##Timeline<
+## Timeline
 
 BLABLABLA
 
