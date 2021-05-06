@@ -118,3 +118,9 @@ gcalendar:
       layout: gc_event          # the Jekyll layout template to use for events
       date_format: "%d-%m-%Y"   # Uses Strftime formating directive (http://strftime.net/)
       look_ahead: 365           # 1 year in days
+      
+collections:
+  events:
+    output: true
+    permalink: /events/:path/
+    title: Events
