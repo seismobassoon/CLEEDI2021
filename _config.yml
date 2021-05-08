@@ -24,7 +24,8 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+#remote_theme: mmistakes/minimal-mistakes # NF comments out this to test DigitaleGesellschaft
+remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@2.0.0" # NF
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
