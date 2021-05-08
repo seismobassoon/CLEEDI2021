@@ -6,6 +6,9 @@ url: "https://example.com" # the base hostname & protocol for your site, e.g. ht
 #remote_theme: mmistakes/minimal-mistakes # NF comments out this to test DigitaleGesellschaft
 remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@2.0.0" # NF
 
+conference:
+  show_errors: false
+
 
 # Build settings
 markdown: kramdown
