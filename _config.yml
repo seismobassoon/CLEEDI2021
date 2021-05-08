@@ -13,7 +13,7 @@ sass:
 
 # Additional exclude from processing
 exclude:
-  #- .github/
+  - .github/
   - README.md
   - LICENSE.md
   - REDISTRIBUTED.md
