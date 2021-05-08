@@ -13,6 +13,7 @@ sass:
 
 # Additional exclude from processing
 exclude:
+  - vendor/
   - .github/
   - README.md
   - LICENSE.md
